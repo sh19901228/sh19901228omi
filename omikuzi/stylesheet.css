@@ -1,0 +1,19 @@
+body{
+  background-image: url(images/PPW_omikujinohikidashi_TP_V.jpg);
+  background-size: cover;
+}
+
+.omikuzi-box{
+  margin: 30px auto;
+  width: 777px;
+  background-color: #fffaf0;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 8px #777777;
+}
+
+span{
+  font-size: 30px;
+  font-weight: bold;
+  color: red;
+}
